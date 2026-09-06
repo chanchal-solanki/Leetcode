@@ -18,20 +18,23 @@ class Solution {
         int n = s.length();
         int m = t.length();
 
-        int[][] dp = new int[n+1][m+1];
-
-        for(int i=0; i<=n; i++) dp[i][m] = 1;
+        int[] next = new int[m+1];
+        next[m] = 1;
 
         for(int i=n-1; i>=0; i--){
+            int[] curr = new int[m+1];
+            curr[m] = 1;
+
             for(int j=m-1; j>=0; j--){
                 if(s.charAt(i) == t.charAt(j))
-                    dp[i][j] = dp[i+1][j+1] + dp[i+1][j];
+                    curr[j] = next[j+1] + next[j];
                 
                 else 
-                    dp[i][j] = dp[i+1][j];
+                    curr[j] = next[j];
             }
+            next = curr;
         }
-        return dp[0][0];
+        return next[0];
     }
 
 }
