@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chanchal-solanki/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chanchal-solanki/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
