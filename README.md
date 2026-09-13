@@ -6,6 +6,7 @@
 | ------- |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0835-image-overlap](https://github.com/chanchal-solanki/Leetcode/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chanchal-solanki/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chanchal-solanki/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -29,6 +30,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/chanchal-solanki/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chanchal-solanki/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
