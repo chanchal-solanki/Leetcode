@@ -50,11 +50,13 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Design
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
