@@ -52,6 +52,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/chanchal-solanki/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
