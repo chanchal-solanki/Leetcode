@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/chanchal-solanki/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/chanchal-solanki/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
