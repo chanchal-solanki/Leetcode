@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0835-image-overlap](https://github.com/chanchal-solanki/Leetcode/tree/master/0835-image-overlap) |
@@ -83,6 +84,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -109,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/chanchal-solanki/Leetcode/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
