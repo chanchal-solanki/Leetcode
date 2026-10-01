@@ -12,6 +12,6 @@ class Solution {
                 if((peek == '(' && c != ')') || (peek == '{' && c != '}') || (peek == '[' && c != ']')) return false;
             }
         }
-        return st.isEmpty() ? true : false;
+        return st.isEmpty();
     }
 }
