@@ -18,11 +18,11 @@ class Solution {
             sb.deleteCharAt(sb.length()-1);
         }
   
-        if(open > close){
-              sb.append(')');
-            solve(n,open,close+1, sb);
-            sb.deleteCharAt(sb.length()-1);
-        }
+        if(open <= close) return;
+
+        sb.append(')');
+        solve(n,open,close+1, sb);
+        sb.deleteCharAt(sb.length()-1);
     
     }
 }
