@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -38,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/chanchal-solanki/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chanchal-solanki/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
