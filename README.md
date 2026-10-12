@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/chanchal-solanki/Leetcode/tree/master/0383-ransom-note) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -72,6 +73,7 @@
 | [0058-length-of-last-word](https://github.com/chanchal-solanki/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/chanchal-solanki/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/chanchal-solanki/Leetcode/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chanchal-solanki/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -189,4 +191,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/chanchal-solanki/Leetcode/tree/master/0289-game-of-life) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/chanchal-solanki/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
