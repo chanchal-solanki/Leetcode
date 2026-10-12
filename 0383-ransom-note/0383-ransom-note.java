@@ -1,9 +1,6 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        int m = ransomNote.length();
-        int n = magazine.length();
-
-       if(m > n) return false;
+    //    if(ransomNote.length() >  magazine.length()) return false;
 
         HashMap<Character,Integer> map = new HashMap<>();
 
