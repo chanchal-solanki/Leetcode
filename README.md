@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/chanchal-solanki/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chanchal-solanki/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/chanchal-solanki/Leetcode/tree/master/0383-ransom-note) |
@@ -77,6 +78,7 @@
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/chanchal-solanki/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chanchal-solanki/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chanchal-solanki/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/chanchal-solanki/Leetcode/tree/master/0392-is-subsequence) |
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chanchal-solanki/Leetcode/tree/master/0242-valid-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chanchal-solanki/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
