@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chanchal-solanki/Leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chanchal-solanki/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chanchal-solanki/Leetcode/tree/master/0290-word-pattern) |
@@ -57,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chanchal-solanki/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chanchal-solanki/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -152,6 +154,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/chanchal-solanki/Leetcode/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chanchal-solanki/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
