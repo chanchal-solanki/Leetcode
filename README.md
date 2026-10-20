@@ -84,6 +84,7 @@
 | [0032-longest-valid-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chanchal-solanki/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chanchal-solanki/Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/chanchal-solanki/Leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/chanchal-solanki/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/chanchal-solanki/Leetcode/tree/master/0071-simplify-path) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chanchal-solanki/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
