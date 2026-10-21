@@ -116,6 +116,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/chanchal-solanki/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -189,6 +190,7 @@
 | [0020-valid-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/chanchal-solanki/Leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/chanchal-solanki/Leetcode/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chanchal-solanki/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chanchal-solanki/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
