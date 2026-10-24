@@ -62,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chanchal-solanki/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -150,6 +151,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -243,5 +245,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/chanchal-solanki/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
