@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chanchal-solanki/Leetcode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/chanchal-solanki/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/chanchal-solanki/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -250,5 +251,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/chanchal-solanki/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/chanchal-solanki/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
