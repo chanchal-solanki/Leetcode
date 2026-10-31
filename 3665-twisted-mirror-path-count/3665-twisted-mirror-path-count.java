@@ -34,35 +34,38 @@ class Solution {
     //     return dp[i][j][path] = cnt % MOD ;
     // }
 
-    public int uniquePath(int[][] grid){
-        int m = grid.length;
-        int n = grid[0].length;
+    
+
+    public int uniquePath(int[][] grid) {
+        int m = grid.length, n = grid[0].length;
         int MOD = 1_000_000_007;
 
-        int[][][] dp =new int[m+1][n+1][2];
+        int[][][] dp = new int[m + 1][n + 1][2];
 
-        dp[m-1][n-1][0] = 1;
-        dp[m-1][n-1][1] = 1;
+        dp[m - 1][n - 1][0] = 1;
+        dp[m - 1][n - 1][1] = 1;
 
-        for(int i = m-1; i>=0; i--){
-            for(int j = n-1; j>=0; j--){
-                if( i== m-1 && j == n-1) continue;
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
 
-                for(int path = 0; path<2; path++){
-                    int cnt = 0;
+                if (i == m - 1 && j == n - 1) continue;
 
-                    if(grid[i][j] == 1){
-                        if(path == 1) cnt += dp[i+1][j][0];
-                        else cnt += dp[i][j+1][1];
-                    }else {
-                        cnt += dp[i][j+1][1] +  dp[i+1][j][0];
+                for (int d = 0; d < 2; d++) {
+                    int ways;
+
+                    if (grid[i][j] == 1) {
+                        ways = (d == 1) ? dp[i + 1][j][0]
+                                        : dp[i][j + 1][1];
+                    } else {
+                        ways = dp[i + 1][j][0] + dp[i][j + 1][1];
                     }
 
-                    dp[i][j][path] = cnt % MOD ;
-                }
+                    dp[i][j][d] = ways % MOD;
+                }   
             }
         }
-        return dp[0][0][0];
-    }
+
+    return dp[0][0][0];
+}
 
 }
