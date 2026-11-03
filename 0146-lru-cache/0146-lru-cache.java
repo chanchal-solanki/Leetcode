@@ -13,8 +13,6 @@ class LRUCache {
     
     public int get(int key) {
         if(!map.containsKey(key)) return -1;
-                System.out.println("get done");
-
         remove(map.get(key));
         insert(map.get(key));
         return map.get(key).val;
@@ -30,31 +28,23 @@ class LRUCache {
         if(node.prev != null) node.prev.next = nextH;
         if(node.next != null) node.next.prev = prevH;
 
+        if(head != null) head.prev = null;
+        if(tail != null) tail.next = null;
+
         node.next = null;
         node.prev = null; 
-        // System.out.println("delition");
-        //  System.out.println(head.key);
-        //   System.out.println(tail.key);
     }
 
     public void insert(ListNode node ){
         if(head == null ){
             head = node;
             tail = node;
-            
-        //     System.out.println("insertion");
-        // System.out.println(head.key);
-        // System.out.println(tail.key);
-
             return;
         }
+        
         tail.next = node;
         node.prev = tail;
         tail = node;
-        // System.out.println("insertion");
-        // System.out.println(head.key);
-        // System.out.println(tail.key);
-
     }
     
     public void put(int key, int value) {
@@ -66,14 +56,11 @@ class LRUCache {
         ListNode node = new ListNode(key,value);
         map.put(key,node);
         insert(node);
-        System.out.println("put done");
-
+        
         if(map.size()>capacity) {
-            System.out.println("size exceed");
             map.remove(head.key);
             remove(head); 
         }
-
     }
 }
 class ListNode{
