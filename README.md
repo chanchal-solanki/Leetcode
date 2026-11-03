@@ -37,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/chanchal-solanki/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/chanchal-solanki/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/chanchal-solanki/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/chanchal-solanki/Leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/chanchal-solanki/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chanchal-solanki/Leetcode/tree/master/0242-valid-anagram) |
@@ -133,6 +134,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/chanchal-solanki/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chanchal-solanki/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -264,6 +266,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/chanchal-solanki/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/chanchal-solanki/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/chanchal-solanki/Leetcode/tree/master/0146-lru-cache) |
 ## Graph Theory
 |  |
 | ------- |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chanchal-solanki/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chanchal-solanki/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
