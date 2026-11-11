@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/chanchal-solanki/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/chanchal-solanki/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/chanchal-solanki/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/chanchal-solanki/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chanchal-solanki/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/chanchal-solanki/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chanchal-solanki/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
