@@ -18,6 +18,7 @@
 | [0835-image-overlap](https://github.com/chanchal-solanki/Leetcode/tree/master/0835-image-overlap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chanchal-solanki/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chanchal-solanki/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chanchal-solanki/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -83,6 +84,7 @@
 | [0202-happy-number](https://github.com/chanchal-solanki/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chanchal-solanki/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chanchal-solanki/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chanchal-solanki/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chanchal-solanki/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chanchal-solanki/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/chanchal-solanki/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -134,6 +137,7 @@
 | [0392-is-subsequence](https://github.com/chanchal-solanki/Leetcode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chanchal-solanki/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/chanchal-solanki/Leetcode/tree/master/3665-twisted-mirror-path-count) |
