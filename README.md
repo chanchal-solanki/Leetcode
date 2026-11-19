@@ -21,6 +21,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chanchal-solanki/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chanchal-solanki/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chanchal-solanki/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chanchal-solanki/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chanchal-solanki/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -164,6 +165,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chanchal-solanki/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chanchal-solanki/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chanchal-solanki/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
@@ -241,6 +243,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chanchal-solanki/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chanchal-solanki/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chanchal-solanki/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chanchal-solanki/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chanchal-solanki/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
