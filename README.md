@@ -89,6 +89,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chanchal-solanki/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chanchal-solanki/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chanchal-solanki/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/chanchal-solanki/Leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chanchal-solanki/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chanchal-solanki/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/chanchal-solanki/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -290,6 +291,7 @@
 | [0054-spiral-matrix](https://github.com/chanchal-solanki/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/chanchal-solanki/Leetcode/tree/master/0289-game-of-life) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/chanchal-solanki/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/chanchal-solanki/Leetcode/tree/master/3360-stone-removal-game) |
 ## Counting
 |  |
 | ------- |
